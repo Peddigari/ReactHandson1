@@ -1,0 +1,17 @@
+.para{
+    color: crimson;
+}
+.funcboxParent{
+    width: 75%;
+  margin: 0 auto;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.funcbox{
+    width: fit-content;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:grey;
+}
